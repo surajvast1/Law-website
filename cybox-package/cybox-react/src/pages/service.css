@@ -1,0 +1,35 @@
+.s-container {
+  padding: 10rem 0rem;
+  display: flex;
+
+  padding-left: 3rem;
+}
+.left-service {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  gap: 2rem;
+  padding-left: 12rem;
+}
+.s-button {
+  border-radius: 35.5px 35.5px 35.5px 0;
+  width: 240px;
+  background-color: #052b45;
+  padding: 14px 40px 12px 30px;
+  border: none;
+  color: green;
+}
+.triangle-image {
+  width: 400px;
+}
+.hand-image {
+  width: 240px;
+}
+.right-service {
+  position: relative;
+}
+.image-container {
+  position: absolute;
+  bottom: 3rem;
+  left: 3rem;
+}
