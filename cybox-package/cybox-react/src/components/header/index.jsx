@@ -66,7 +66,7 @@ const Header = () => {
                             }
                         </ul>
                     </nav>
-                    <Button title='join discord' path='/contact' />
+                    <Button title='Username' path='/contact' />
 
                     <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div>
                 </div>

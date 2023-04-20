@@ -16,7 +16,9 @@ import BlogDetails from "./BlogDetails";
 import Contact from "./Contact";
 import TeamDetail from "./TeamDetail";
 import Service from "./Service";
+import Testimonials from "./Testimonials";
 import "./service.css";
+import "./testimonials.css";
 
 const routes = [
   { path: "/", component: <HomeOne /> },
@@ -37,6 +39,7 @@ const routes = [
   { path: "/contact", component: <Contact /> },
   { path: "/team-details", component: <TeamDetail /> },
   { path: "/service", component: <Service /> },
+  { path: "/testimonials", component: <Testimonials /> },
 ];
 
 export default routes;
