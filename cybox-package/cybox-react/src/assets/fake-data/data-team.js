@@ -9,8 +9,8 @@ const dataTeam = [
     {
         id: 1,
         img: img1,
-        name: 'Esther Howard',
-        position: 'Co-founder & COO',
+        name: 'BIPUL KUMAR SINGH',
+        position: 'CEO',
         listsocial: [
             {
                 id: 1,
@@ -37,8 +37,8 @@ const dataTeam = [
     {
         id: 2,
         img: img2,
-        name: 'Devon Lane',
-        position: 'Blockchain Developer',
+        name: 'RANA VIVEK SINGH',
+        position: 'CTO',
         listsocial: [
             {
                 id: 1,
@@ -65,8 +65,8 @@ const dataTeam = [
     {
         id: 3,
         img: img3,
-        name: 'Ralph Edwards',
-        position: 'Backend Engineer',
+        name: 'NIKHIL SHARMA',
+        position: 'Software Development Engineer',
         listsocial: [
             {
                 id: 1,
@@ -93,8 +93,8 @@ const dataTeam = [
     {
         id: 4,
         img: img4,
-        name: 'Esther Howard',
-        position: 'Co-founder & COO',
+        name: 'VYOM GOYAL',
+        position: 'Software Development Engineer',
         listsocial: [
             {
                 id: 1,
@@ -121,7 +121,7 @@ const dataTeam = [
     {
         id: 5,
         img: img5,
-        name: 'Devon Lane',
+        name: 'VARSA',
         position: 'Blockchain Developer',
         listsocial: [
             {
@@ -149,7 +149,7 @@ const dataTeam = [
     {
         id: 6,
         img: img6,
-        name: 'Ralph Edwards',
+        name: 'SATVIK MISHRA',
         position: 'Backend Engineer',
         listsocial: [
             {
@@ -177,7 +177,7 @@ const dataTeam = [
     {
         id: 7,
         img: img1,
-        name: 'Esther Howard',
+        name: 'Shashank',
         position: 'Co-founder & COO',
         listsocial: [
             {
@@ -205,7 +205,7 @@ const dataTeam = [
     {
         id: 8,
         img: img2,
-        name: 'Devon Lane',
+        name: 'Shubham',
         position: 'Blockchain Developer',
         listsocial: [
             {
