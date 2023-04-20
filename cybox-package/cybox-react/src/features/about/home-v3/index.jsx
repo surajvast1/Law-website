@@ -15,8 +15,8 @@ function About(props) {
     const [dataBlock] = useState(
         {
             subtitle : 'About us',
-            title: 'What is cybox?',
-            desc : 'Maecenas sit pretium, cras in. In quisque sem id eget. In vel gravida ut adipiscing integer felis.'
+            title: 'What is E-CORP?',
+            desc : "We are a GST filing company which uses AI bases model to file GST without the assistance of CA . We simply use the invoices that has been provided to us to file GST"
         }
     )
 
@@ -41,11 +41,7 @@ function About(props) {
                                 </div>
                             ))
                         }
-                    <div className="col-md-12">
-                        <div className="btn-about center" data-aos="fade-up" data-aos-duration="800">
-                            <Button title='get Nfts' path='#' />
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </section>
