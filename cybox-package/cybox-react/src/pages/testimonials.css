@@ -1,0 +1,8 @@
+.m-button {
+    border-radius: 35.5px 35.5px 35.5px 0;
+    width: 300px;
+    background-color: #052b45;
+    padding: 14px 40px 12px 30px;
+    border: none;
+    color: green;
+  }

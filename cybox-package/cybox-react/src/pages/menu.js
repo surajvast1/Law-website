@@ -87,20 +87,8 @@ const menus = [
   },
   {
     id: 5,
-    name: "Nft",
-    links: "#",
-    namesub: [
-      {
-        id: 1,
-        sub: "Nft Item",
-        links: "/nft-item",
-      },
-      {
-        id: 2,
-        sub: "Nft Item Details",
-        links: "/nft-item-details",
-      },
-    ],
+    name: "Testimonials",
+    links: "/testimonials",
   },
   {
     id: 6,
