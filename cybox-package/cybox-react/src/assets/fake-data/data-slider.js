@@ -6,8 +6,8 @@ import img1 from '../images/common/itemslider.png';
 const dataSlider = [
     {
         id: 1,
-        title: 'CYbox nft collectionS for everyone',
-        desc : 'Nulla ornare sagittis placerat nunc sit tempus enim. Accumsan pellentesque ipsum felis tristique at proin vel turpis.',
+        title: 'Experience the new age technology in corporate governance.',
+        desc : 'With our AI technology we provide seamless and efficient range of services to assist with registrations, tax filings, bookkeeping, and other legal matters saving your time & energy.',
         bgImg: bgImg1,
         img : img1
     },
