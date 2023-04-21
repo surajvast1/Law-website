@@ -64,9 +64,9 @@ const dataTeam = [
     },
     {
         id: 3,
-        img: img3,
-        name: 'NIKHIL SHARMA',
-        position: 'Software Development Engineer',
+        img: img6,
+        name: 'SATVIK MISHRA',
+        position: 'Backend Engineer',
         listsocial: [
             {
                 id: 1,
@@ -92,9 +92,9 @@ const dataTeam = [
     },
     {
         id: 4,
-        img: img4,
-        name: 'VYOM GOYAL',
-        position: 'Software Development Engineer',
+        img: img2,
+        name: 'Shubham',
+        position: 'Blockchain Developer',
         listsocial: [
             {
                 id: 1,
@@ -146,36 +146,9 @@ const dataTeam = [
             },
         ]
     },
+    
     {
         id: 6,
-        img: img6,
-        name: 'SATVIK MISHRA',
-        position: 'Backend Engineer',
-        listsocial: [
-            {
-                id: 1,
-                icon: 'fab fa-twitter',
-                link: '#'
-            },
-            {
-                id: 2,
-                icon: 'fab fa-facebook-f',
-                link: '#'
-            },
-            {
-                id: 3,
-                icon: 'fa fa-paper-plane',
-                link: '#'
-            },
-            {
-                id: 4,
-                icon: 'fab fa-reddit',
-                link: '#'
-            },
-        ]
-    },
-    {
-        id: 7,
         img: img1,
         name: 'Shashank',
         position: 'Co-founder & COO',
@@ -203,10 +176,10 @@ const dataTeam = [
         ]
     },
     {
-        id: 8,
-        img: img2,
-        name: 'Shubham',
-        position: 'Blockchain Developer',
+        id: 7,
+        img: img4,
+        name: 'VYOM GOYAL',
+        position: 'Software Development Engineer',
         listsocial: [
             {
                 id: 1,
@@ -230,6 +203,37 @@ const dataTeam = [
             },
         ]
     },
+    {
+        id: 8,
+        img: img3,
+        name: 'NIKHIL SHARMA',
+        position: 'Software Development Engineer',
+        listsocial: [
+            {
+                id: 1,
+                icon: 'fab fa-twitter',
+                link: '#'
+            },
+            {
+                id: 2,
+                icon: 'fab fa-facebook-f',
+                link: '#'
+            },
+            {
+                id: 3,
+                icon: 'fa fa-paper-plane',
+                link: '#'
+            },
+            {
+                id: 4,
+                icon: 'fab fa-reddit',
+                link: '#'
+            },
+        ]
+    },
+    
+    
+    
 ]
 
 export default dataTeam;
