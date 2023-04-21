@@ -85,7 +85,13 @@ const menus = [
       },
     ],
   },
- 
+
+  {
+    id: 5,
+    name: "Testimonials",
+    links: "/testimonials",
+  },
+
   {
     id: 6,
     name: "Blog",

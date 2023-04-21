@@ -13,6 +13,7 @@ Project.propTypes = {
 function Project(props) {
     const {data} = props;
     return (
+       
         <section className="tf-section tf-project">
             <div className="container-fluid">
 
