@@ -5,7 +5,7 @@ import PageTitle from '../components/pagetitle';
 function Contact(props) {
     return (
         <div>
-            <PageTitle title='Contact Uss' />
+            <PageTitle title='Contact Us' />
 
             <section className="tf-section tf-contact">
                 <div className="container">
@@ -15,7 +15,7 @@ function Contact(props) {
                                 <div className="tf-title st2 m-b17">
                                     <h4 className="title">Have a question </h4>
                                 </div>
-                                <p className="m-r-40">Fill up the Form  and ou team will get back to within 24 hrs</p>
+                                <p className="m-r-40">Fill up the form  and our team will get back to you within 24 hrs</p>
                             </div>
                             <form action="contact/contact-process.php" className="form-contact" id="contactform" data-aos="fade-right" data-aos-duration="800">
                                 <fieldset>
@@ -39,14 +39,14 @@ function Contact(props) {
                                     <div className="location">
                                         <h6>Location</h6>
                                         <ul>
-                                            <li>2163 Phillips Gap Rd West Jefferson,NC, 28694</li>
+                                            <li>BMSCE Bull Temple Road, Basavanagudi</li>
                                         </ul>
                                     </div>
                                     <div className="mail">
                                         <h6>Contact Us</h6>
                                         <ul>
-                                            <li>+1 666 8888</li>
-                                            <li>Info.avitex@gmail.com</li>
+                                            <li>+91 7371889861</li>
+                                            <li>bipulkumarsingh@gmail.com</li>
                                         </ul>
                                     </div>
                                 </div>
