@@ -93,7 +93,7 @@ const dataTeam = [
     {
         id: 4,
         img: img2,
-        name: 'Shubham',
+        name: 'Shubham Shrivastava',
         position: 'Blockchain Developer',
         listsocial: [
             {
@@ -121,7 +121,7 @@ const dataTeam = [
     {
         id: 5,
         img: img5,
-        name: 'VARSA',
+        name: 'Varsa Gupta',
         position: 'Blockchain Developer',
         listsocial: [
             {
@@ -150,7 +150,7 @@ const dataTeam = [
     {
         id: 6,
         img: img1,
-        name: 'Shashank',
+        name: 'Shashank Agrawal',
         position: 'Co-founder & COO',
         listsocial: [
             {
