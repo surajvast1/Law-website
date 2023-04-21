@@ -36,11 +36,11 @@ const menus = [
         sub: "About 02",
         links: "/about-v2",
       },
-      {
-        id: 3,
-        sub: "Coming Soon",
-        links: "/coming-soon",
-      },
+      // {
+      //   id: 3,
+      //   sub: "Coming Soon",
+      //   links: "/coming-soon",
+      // },
       {
         id: 4,
         sub: "Community",
@@ -67,23 +67,6 @@ const menus = [
     id: 3,
     name: "Services",
     links: "/service",
-  },
-  {
-    id: 4,
-    name: "Road Map",
-    links: "#",
-    namesub: [
-      {
-        id: 1,
-        sub: "Road Map 01",
-        links: "/road-map-v1",
-      },
-      {
-        id: 2,
-        sub: "Road Map 02",
-        links: "/road-map-v2",
-      },
-    ],
   },
 
   {

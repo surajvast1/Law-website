@@ -18,16 +18,10 @@ const Service = () => {
           <div className="right-service">
             <img
               className="triangle-image"
-              src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/homeshape-bg.png"
+              src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/ecorp-img.png"
               alt=""
             />
-            <div className="image-container">
-              <img
-                className="hand-image"
-                src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/CONTACT-US-HAND.png"
-                alt=""
-              />
-            </div>
+            
           </div>
         </div>
       </section>

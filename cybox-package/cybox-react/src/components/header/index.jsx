@@ -67,7 +67,7 @@ const Header = () => {
                         </ul>
                     </nav>
 
-                    <Button title='E-CORP AI' path='/backend' />
+                    <Button title='E-CORP AI' path='/coming-soon' />
 
 
 
