@@ -18,6 +18,8 @@ import Service from "./Service";
 import Testimonials from "./Testimonials";
 import "./service.css";
 import "./testimonials.css";
+import Connectbackeend from "./Connectbackeend";
+
 
 const routes = [
   { path: "/", component: <HomeOne /> },
@@ -38,6 +40,7 @@ const routes = [
   { path: "/team-details", component: <TeamDetail /> },
   { path: "/service", component: <Service /> },
   { path: "/testimonials", component: <Testimonials /> },
+  { path: "/backend", component: <Connectbackeend /> },4
 ];
 
 export default routes;

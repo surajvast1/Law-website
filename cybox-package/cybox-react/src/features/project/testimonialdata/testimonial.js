@@ -19,8 +19,8 @@ const testimonial = () => {
         <b>Dr H.N Suma</b><br/>
         <b>Dean Innovation & Incubation Center, BMSCE</b>
 
-        {/* <h6>Rana Vivek Singh</h6>
-        <h6>CEO, BigBuddy</h6> */}
+         {/* <h2>Rana Vivek Singh</h2>
+        <h3>CEO, BigBuddy</h3>  */}
         <p>
         The team's expertise in the field of artificial intelligence and machine learning is commendable, and I am impressed with their dedication to delivering innovative solutions to their clients. They have leveraged AI and machine learning to streamline the process and make it more efficient, which is a significant advantage for clients who want to save time and resources. The company's commitment to delivering high-quality services to its clients is evident, and they are continuously improving their solutions to meet their clients' evolving needs.
         </p>
