@@ -9,14 +9,17 @@ import FAQ from "./FAQ";
 import Page404 from "./404";
 import RoadMapOne from "./RoadMapOne";
 import RoadMapTwo from "./RoadMapTwo";
-import NftItem from "./NftItem";
-import NftItemDetails from "./NftItemDetails";
+
 import Blog from "./Blog";
 import BlogDetails from "./BlogDetails";
 import Contact from "./Contact";
 import TeamDetail from "./TeamDetail";
 import Service from "./Service";
+import Testimonials from "./Testimonials";
 import "./service.css";
+import "./testimonials.css";
+import Connectbackeend from "./Connectbackeend";
+
 
 const routes = [
   { path: "/", component: <HomeOne /> },
@@ -30,13 +33,14 @@ const routes = [
   { path: "/404", component: <Page404 /> },
   { path: "/road-map-v1", component: <RoadMapOne /> },
   { path: "/road-map-v2", component: <RoadMapTwo /> },
-  { path: "/nft-item", component: <NftItem /> },
-  { path: "/nft-item-details", component: <NftItemDetails /> },
+  
   { path: "/blog", component: <Blog /> },
   { path: "/blog-details", component: <BlogDetails /> },
   { path: "/contact", component: <Contact /> },
   { path: "/team-details", component: <TeamDetail /> },
   { path: "/service", component: <Service /> },
+  { path: "/testimonials", component: <Testimonials /> },
+  { path: "/backend", component: <Connectbackeend /> },4
 ];
 
 export default routes;

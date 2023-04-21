@@ -66,7 +66,10 @@ const Header = () => {
                             }
                         </ul>
                     </nav>
-                    <Button title='E-CORP AI' path='/contact' />
+
+                    <Button title='E-CORP AI' path='/backend' />
+
+
 
                     <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div>
                 </div>
