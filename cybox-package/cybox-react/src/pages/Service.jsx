@@ -8,12 +8,14 @@ const Service = () => {
       <section className="Servives">
         <div className="s-container">
           <div className="left-service">
+
             <h3 className="Heading-Text">Our Services</h3>
             <p className="Under-Heading-Text-Service-Page">We can file your gst with the help of our AI model.</p>
             {/* <button className="s-button">
               Home {">"}
               {">"} Services
             </button> */}
+
           </div>
           <div className="right-service">
             <img
@@ -40,18 +42,22 @@ const Service = () => {
               <div className="left-part">
                 <div className="card-image">
                   <img
+
                     src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/Pitch-300x300.png"
+
                     alt=""
                   />
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>Incorporation</h6>
                 <p className="inner-text">
                 Want to open a company, but don't know where to start? Start incorporating your dream company here.
                 </p>
                 <a className="read-more" href="#">
                   READ MORE <br /><br />
+
                 </a>
               </div>
             </div>
@@ -61,12 +67,15 @@ const Service = () => {
               <div className="left-part">
                 <div className="card-image">
                   <img
+
                     src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/services-sec-home-page-.png"
+
                     alt=""
                   />
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>GST Registration </h6>
                 <p className="inner-text">
                 We provide one-stop destination for all you GST filling needs.
@@ -74,6 +83,7 @@ const Service = () => {
                 </p>
                 <a className="read-more" href="#">
                   READ MORE <br /><br /><br /><br/>
+
                 </a>
               </div>
             </div>
@@ -83,18 +93,22 @@ const Service = () => {
               <div className="left-part">
                 <div className="card-image">
                   <img
+
                     src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/TM-300x297.png"
+
                     alt=""
                   />
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>Trademark</h6>
                 <p className="inner-text">
                 Register your trademarks with us in a simple hazel free procedure.
                 </p>
                 <a className="read-more" href="#">
                   READ MORE <br /><br /><br /><br />
+
                 </a>
               </div>
             </div>
@@ -106,18 +120,22 @@ const Service = () => {
               <div className="left-part">
                 <div className="card-image">
                   <img
+
                     src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/Pitch-300x300.png"
+
                     alt=""
                   />
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>Pitch Deck</h6>
                 <p className="inner-text">
                 To effectively communicate your vision, strategy, and financial projections to potential investors, partners, and customers.
                 </p>
                 <a className="read-more" href="#">
                   READ MORE<br /><br />
+
                 </a>
               </div>
             </div>
@@ -127,18 +145,22 @@ const Service = () => {
               <div className="left-part">
                 <div className="card-image">
                   <img
+
                     src="https://ecorpwpsrv-0f9814189c3cdd15bdb8-endpoint.azureedge.net/blobecorpwpsrv0c6c233083/wp-content/uploads/2023/03/FUNDNG-300x300.png"
+
                     alt=""
                   />
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>Funding</h6>
                 <p className="inner-text">
                 Register your trademarks with us in a simple hazel free procedure.
                 </p>
                 <a className="read-more" href="#">
                   READ MORE <br /><br /><br /><br />
+
                 </a>
               </div>
             </div>
@@ -154,6 +176,7 @@ const Service = () => {
                 </div>
               </div>
               <div className="right-part">
+
                 <h6>MORE SERVICES</h6>
                 <p className="inner-text">
                 ISO Certification <br />
@@ -165,6 +188,7 @@ const Service = () => {
                 </p>
                 <a className="read-more" href="#">
                   READ MORE<br />
+
                 </a>
               </div>
             </div>
@@ -185,6 +209,7 @@ const Service = () => {
             /> */}
           </div>
           <div className="right-s-info">
+
             <h6 >WHY CHOOSE US</h6>
             <h2>We are great at what we do </h2>
 
@@ -209,6 +234,7 @@ const Service = () => {
               Read More
               <div className="container-icon"></div>
             </button> */}
+
           </div>
         </div>
       </section>

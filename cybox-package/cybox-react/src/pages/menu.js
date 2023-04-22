@@ -2,24 +2,24 @@ const menus = [
   {
     id: 1,
     name: "Home",
-    links: "#",
-    namesub: [
-      {
-        id: 1,
-        sub: "Home 01",
-        links: "/",
-      },
-      {
-        id: 2,
-        sub: "Home 02",
-        links: "/home-v2",
-      },
-      {
-        id: 3,
-        sub: "Home 03",
-        links: "/home-v3",
-      },
-    ],
+    links: "/home-v3",
+    // namesub: [
+    //   {
+    //     id: 1,
+    //     sub: "Home 01",
+    //     links: "/",
+    //   },
+    //   {
+    //     id: 2,
+    //     sub: "Home 02",
+    //     links: "/home-v2",
+    //   },
+    //   {
+    //     id: 3,
+    //     sub: "Home 03",
+    //     links: "/home-v3",
+    //   },
+    // ],
   },
   {
     id: 2,
@@ -36,11 +36,11 @@ const menus = [
         sub: "About 02",
         links: "/about-v2",
       },
-      {
-        id: 3,
-        sub: "Coming Soon",
-        links: "/coming-soon",
-      },
+      // {
+      //   id: 3,
+      //   sub: "Coming Soon",
+      //   links: "/coming-soon",
+      // },
       {
         id: 4,
         sub: "Community",
@@ -56,34 +56,17 @@ const menus = [
         sub: "FAQ",
         links: "/faq",
       },
-      {
-        id: 7,
-        sub: "404",
-        links: "/404",
-      },
+      // {
+      //   id: 7,
+      //   sub: "404",
+      //   links: "/404",
+      // },
     ],
   },
   {
     id: 3,
     name: "Services",
     links: "/service",
-  },
-  {
-    id: 4,
-    name: "Road Map",
-    links: "#",
-    namesub: [
-      {
-        id: 1,
-        sub: "Road Map 01",
-        links: "/road-map-v1",
-      },
-      {
-        id: 2,
-        sub: "Road Map 02",
-        links: "/road-map-v2",
-      },
-    ],
   },
 
   {

@@ -3,7 +3,7 @@ import Slider from '../components/slider/home-v3';
 import dataSlider from '../assets/fake-data/data-slider';
 import About from '../features/about/home-v3';
 import dataAbout from '../assets/fake-data/data-about';
-import RoadMap from '../features/roadmap/home-v3';
+import RoadMap from '../features/roadmap';
 import dataRoadmap from '../assets/fake-data/data-roadmap';
 import Work from '../features/work/home-v3';
 import dataWork from '../assets/fake-data/data-work';

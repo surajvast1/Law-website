@@ -1,7 +1,10 @@
+
 import React from 'react'
 import PageTitle from "../components/pagetitle";
+
 const Connectbackeend = () => {
   return (
+    
     <div>
       <PageTitle title="" />
       <h1>Hi from backend</h1>
@@ -9,4 +12,4 @@ const Connectbackeend = () => {
   )
 }
 
-export default Connectbackeend
+export default Connectbackeend;
