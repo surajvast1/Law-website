@@ -10,6 +10,22 @@
   flex-direction: column;
   gap: 2rem;
 }
+
+/* .Heading-Text{
+  font-size: 1.4em ;
+  
+}
+
+.Under-Heading-Text-Service-Page{
+  font-size: 1.5vw ;
+} */
+
+.bluemark{
+  top: 499px; /* Set Y coordinate */
+  left: 851px; /* Set X coordinate */
+  width: 1%;
+}
+
 .s-button {
   border-radius: 35.5px 35.5px 35.5px 0;
   width: 240px;
@@ -111,8 +127,20 @@
   width: 50%;
 } */
 .s-card .right-part .read-more {
-  color: #36e0f7;
+
+  color: #000000;
+  font-weight: 600;
 }
+
+.inner-text{
+  color: #2a1111;
+}
+
+.WHYCHOOSEUS-TEXT{
+  font-weight: 700;
+}
+
+
 /* .black-line {
   border: 2px solid black;
   border-radius: 5px 5px 0px 0px;
