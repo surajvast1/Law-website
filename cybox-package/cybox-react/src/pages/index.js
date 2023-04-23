@@ -18,6 +18,8 @@ import Service from "./Service";
 import Testimonials from "./Testimonials";
 import "./service.css";
 import "./testimonials.css";
+import PitchDeck from "./PitchDeck";
+import "./pitchDeck.css";
 import Connectbackeend from "./Connectbackeend";
 
 
@@ -40,6 +42,7 @@ const routes = [
   { path: "/team-details", component: <TeamDetail /> },
   { path: "/service", component: <Service /> },
   { path: "/testimonials", component: <Testimonials /> },
+  {path: "/PitchDeck" , component: <PitchDeck />},
   { path: "/backend", component: <Connectbackeend /> },4
 ];
 
