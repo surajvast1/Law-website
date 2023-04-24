@@ -74,7 +74,11 @@ const menus = [
     name: "Testimonials",
     links: "/testimonials",
   },
-
+  {
+    id: 8,
+    name: "PitchDeck",
+    links: "/PitchDeck",
+  },
   {
     id: 6,
     name: "Blog",
