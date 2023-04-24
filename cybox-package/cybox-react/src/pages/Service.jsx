@@ -8,13 +8,10 @@ const Service = () => {
       <section className="Servives">
         <div className="s-container">
           <div className="left-service">
-
+          
             <h3 className="Heading-Text">Our Services</h3>
             <p className="Under-Heading-Text-Service-Page">We can file your gst with the help of our AI model.</p>
-            {/* <button className="s-button">
-              Home {">"}
-              {">"} Services
-            </button> */}
+            
 
           </div>
           <div className="right-service">
