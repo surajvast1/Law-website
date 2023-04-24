@@ -1,63 +1,100 @@
-.pitch-container {
-    padding:3rem 15rem 15rem ;
-    
-    display: flex;
-    justify-content: center;
-    background: #141a31;
-
+@keyframes transition {
+  from {
+    transform: translateX(-500px);
+    opacity: 0;
   }
 
-.pitch-left{
-    display: flex;
+  to {
+    transform: translateX(0);
+    opacity: 5;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(0);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+}
+
+.pitch-container {
+  padding: 3rem 15rem 15rem;
+
+  display: flex;
+  justify-content: center;
+  background: #141a31;
+
+
+
+}
+
+.pitch-left {
+  display: flex;
   flex-direction: column;
   gap: 2rem;
-  }
-
-
-
-.pitch-hand{
-    width: 800px;
+  animation: transition 1s ease;
 }
 
-.pitch-right{
-    position: relative;
+
+
+.pitch-hand {
+  width: 800px;
 }
-.pitch-heading{
+
+.pitch-right {
+  position: relative;
+  
+  right: 0;
+  animation: slideIn 1s ease forwards;
+
+}
+
+.pitch-heading {
   text-align: center;
   padding: 7rem;
 
 }
-.card-container{
+
+.card-container {
   display: flex;
- 
+
   justify-content: space-evenly;
-  align-items: first baseline,last baseline;
+  align-items: first baseline, last baseline;
   gap: 1rem;
   padding-bottom: 2rem;
   margin-top: 2rem;
 }
-.pitch-card{
+
+.pitch-card {
   background-color: white;
-  width:30%;
+  width: 30%;
   display: flex;
   border-radius: 1rem;
-  align-items: first baseline,last baseline;
+  align-items: first baseline, last baseline;
   gap: 1rem;
   padding-bottom: 2rem;
   margin-top: 2rem;
 }
-.right-part{
+
+.right-part {
   color: black;
 }
-.card-heading{
+
+.card-heading {
   color: black;
 }
-.card-image{
+
+.card-image {
   background-color: rgb(109, 232, 249);
   width: 250px;
   height: 100px;
-  
-  
+
+
   align-items: center;
   border-radius: 41px 41px 41px 40px;
 }
